@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+html {
+  background-color: green;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -20,6 +24,9 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+  padding: 0 12.5% 0 12.5%;
+  background-color: green;
+  flex: 1;
 }
 
 .App-link {
